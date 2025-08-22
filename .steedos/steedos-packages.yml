@@ -1,0 +1,6 @@
+'@steedos-labs/purchase':
+  enable: true
+  version: 3.0.0-beta.1
+  description: ''
+  local: true
+  path: steedos-packages/purchase
